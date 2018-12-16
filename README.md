@@ -1,6 +1,7 @@
-# Visualization-with-Dash
+# Data Visualization-with-Dash
 
 A simple "Hello World" Visualization using https://dash.plot.ly/
+Dash is a Python framework for building web applications.
 
 ## Getting Started
 
