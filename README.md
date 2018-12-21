@@ -12,6 +12,8 @@ $python app.py
 ```
 The code will then run locally on http:127.0.0.1:8050/. Go to the link on your web browser, and the Dash Visualization will be shown there.
 
+![screenshot](screenshots/dash_screenshot.png)
+
 ## Acknowledgments
 
 https://dash.plot.ly/
